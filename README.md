@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# "To do list" app
+## DEMO
+https://natmarr.github.io/nm-to-do-list-react/
+## Technologies used
+- HTML
+- CSS
+- JavaScript
+- ES6+ 
+- BEM
+- Grid
+- Immutability
+## Description
+This is "To do list" app where you can write things to do, mark and delete them. The web app is in Polish language.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![To do list screen image](/public/screen.jpg)
 
 ## Available Scripts
 
